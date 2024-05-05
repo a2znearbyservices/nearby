@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sukoon",
+    "slug": "sukoon",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
